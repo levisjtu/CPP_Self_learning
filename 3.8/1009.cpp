@@ -10,7 +10,7 @@ int main()
 	int L1,L2;
 	int i,j;
 	string string1;
-    getline(cin,string1);
+        getline(cin,string1);
 	L1=string1.length();
 	L2=L1;
 	for(i=L1-1;i>=0;i--)
